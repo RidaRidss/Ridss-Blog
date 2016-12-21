@@ -1,2 +1,4 @@
 # Ridss-Blog
-my wordpress blog
+- wordpress blog
+
+***locate at: https://ridaridssblog.wordpress.com/***
